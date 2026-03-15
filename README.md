@@ -1,2 +1,2 @@
 # solveur equations
-programme pour générer et résoudre des équations du premier et second degré
+programme pédagogique pour générer et résoudre des équations du premier et second degré
