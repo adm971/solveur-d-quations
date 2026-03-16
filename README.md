@@ -1,5 +1,7 @@
 # solveur equations
-programme pédagogique pour générer et résoudre des équations du premier et second degré
+Programme pédagogique pour générer et résoudre des équations du premier et second degré
+J'ai créé ce programme dans le but de comprendre profondément ce que sont les équations 
+et dans le but de m'entrainer quotidiennement à leur résolution
 
 
 ## Prérequis
