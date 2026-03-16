@@ -34,7 +34,5 @@ python setup.py
 
 4. Lancer le programme :
 
-cd build
-cd exe.win-amd64-*
-main.exe
----
+un dossier "build" sera créé avec un sous dossier "exe.win" dans le quel se trouve "main.exe"
+Lancer main.exe
