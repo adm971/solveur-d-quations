@@ -6,9 +6,9 @@ et dans le but de m'entrainer quotidiennement à leur résolution
 
 ## Prérequis
 
-- Python 3.8+
+- Python 3.8+ https://www.python.org/downloads/
 - pip
-- cx_Freeze
+
 
 ---
 
