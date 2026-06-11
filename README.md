@@ -18,25 +18,8 @@ et dans le but de m'entrainer quotidiennement à leur résolution
 
 git clone https://github.com/adm971/solveur-d-quations.git
 
-
----
-
-# Installation sur Windows
-
-1. Installer Python depuis :
-https://www.python.org/downloads/
-
-2. Installer cx_Freeze :
-
-python -m pip install cx_Freeze
-
-3. Compiler le programme :
-
 cd solveur-d-quations
 
-python setup.py build
+pip install -r requirements.txt
 
-4. Lancer le programme :
-
-un dossier "build" sera créé avec un sous dossier "exe.win" dans le quel se trouve "main.exe"
-Lancer main.exe
+python main.py
